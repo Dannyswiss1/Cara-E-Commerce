@@ -56,3 +56,10 @@ Contributions to this project are welcome! If you find any issues or want to enh
 ## License
 
 This project is licensed under the MIT Licence.  
+
+### Project by:
+Daniel Tiya Joseph (DannySwiss)
+### Twitter/X
+`@Tiya_JD`
+### Phone/WhatsApp
++234 70 3658 0311
